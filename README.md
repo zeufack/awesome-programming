@@ -1,5 +1,5 @@
-# awesome-programming
-a list of awesome resources to learn and perform your programming skills
+# Awesome-Programming
+A list of awesome resources to learn and perform your programming skills
 
 ### Machine learning with python
 - https://github.com/donnemartin/data-science-ipython-notebooks
