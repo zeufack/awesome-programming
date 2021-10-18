@@ -9,3 +9,5 @@ some resources for system design
 - https://github.com/donnemartin/system-design-primer
 ### learning java
 - https://github.com/in28minutes/learn.git
+### Software ingineering
+- [the 12 factor](https://12factor.net/)
