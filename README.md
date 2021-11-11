@@ -13,3 +13,10 @@ some resources for system design
 - https://github.com/spring-guides/gs-accessing-data-mysql
 ## Software ingineering
 - [the 12 factor](https://12factor.net/)
+-
+
+## JavaScript
+
+### Nodejs
+- https://nodejs.dev/learn
+
