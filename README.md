@@ -16,7 +16,7 @@ some resources for system design
 -
 
 ## JavaScript
-- A complete javascript documentation
+A complete javascript documentation
 - https://javascript.info/
 
 ### Nodejs
