@@ -16,6 +16,8 @@ some resources for system design
 -
 
 ## JavaScript
+- A complete javascript documentation
+- https://javascript.info/
 
 ### Nodejs
 - https://nodejs.dev/learn
