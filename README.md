@@ -9,6 +9,7 @@ some resources for system design
 - https://github.com/donnemartin/system-design-primer
 ## learning java
 - https://github.com/in28minutes/learn.git
+- [best java learning documentation](https://dev.java)
 ### Spring boot tutorials
 - https://github.com/spring-guides/gs-accessing-data-mysql
 ## Software ingineering
