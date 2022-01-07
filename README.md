@@ -4,6 +4,7 @@ A list of awesome resources to learn and perform your programming skills
 ## Machine learning with python
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - https://github.com/jakevdp/sklearn_tutorial
+- https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
 ## system design
 some resources for system design
 - https://github.com/donnemartin/system-design-primer
