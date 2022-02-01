@@ -5,6 +5,8 @@ A list of awesome resources to learn and perform your programming skills
 - https://github.com/donnemartin/data-science-ipython-notebooks
 - https://github.com/jakevdp/sklearn_tutorial
 - https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
+- https://github.com/WillKoehrsen/machine-learning-project-walkthrough.git
+- https://github.com/nlp-with-transformers/notebooks.git
 ## system design
 some resources for system design
 - https://github.com/donnemartin/system-design-primer
