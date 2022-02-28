@@ -10,6 +10,7 @@ A list of awesome resources to learn and perform your programming skills
 - https://github.com/edyoda/data-science-complete-tutorial
 - https://github.com/WillKoehrsen/machine-learning-project-walkthrough
 - https://github.com/towardsai/tutorials
+
 ## system design
 some resources for system design
 - https://github.com/donnemartin/system-design-primer
