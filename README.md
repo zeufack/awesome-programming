@@ -34,3 +34,7 @@ A complete javascript documentation
 
 ### Front End 
 - [understand css layout](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+
+### Interesting website
+- [java design pattern an some algorithm](https://java-design-patterns.com/)
+- [matin fowler publication about cumputer science](https://martinfowler.com/)
