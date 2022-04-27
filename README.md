@@ -38,3 +38,7 @@ A complete javascript documentation
 ### Interesting website
 - [java design pattern an some algorithm](https://java-design-patterns.com/)
 - [matin fowler publication about cumputer science](https://martinfowler.com/)
+
+## Awesome Hacking 
+- [Awesome hacking](https://github.com/carpedm20/awesome-hacking) a list of general hacking tools. organize like thi awesome programming list
+- [Awesome web hacking](
