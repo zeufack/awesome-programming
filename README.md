@@ -41,4 +41,9 @@ A complete javascript documentation
 
 ## Awesome Hacking 
 - [Awesome hacking](https://github.com/carpedm20/awesome-hacking) a list of general hacking tools. organize like thi awesome programming list
-- [Awesome web hacking](
+- [Awesome web hacking]
+
+## Learn testing
+- [testing guild](https://testguild.com/training-courses/)
+- [test automation university](https://testautomationu.applitools.com/)
+- [ministry of testing](https://www.ministryoftesting.com/)
