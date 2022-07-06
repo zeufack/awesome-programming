@@ -48,3 +48,6 @@ A complete javascript documentation
 - [testing guild](https://testguild.com/training-courses/)
 - [test automation university](https://testautomationu.applitools.com/)
 - [ministry of testing](https://www.ministryoftesting.com/)
+
+## Automation tools
+- [WebDriver](https://www.w3.org/TR/webdriver1)
