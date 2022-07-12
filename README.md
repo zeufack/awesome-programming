@@ -28,6 +28,7 @@ some resources for system design
 ## JavaScript
 A complete javascript documentation
 - https://javascript.info/
+- [The JavaScript Event Loop: Explained](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)
 
 ### Nodejs
 - https://nodejs.dev/learn
