@@ -15,6 +15,7 @@ A list of awesome resources to learn and perform your programming skills
 ## system design
 some resources for system design
 - https://github.com/donnemartin/system-design-primer
+- [REST API design course by mycrosoft](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 ## learning java
 - https://github.com/in28minutes/learn.git
 - [best java learning documentation](https://dev.java)
