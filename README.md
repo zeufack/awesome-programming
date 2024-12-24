@@ -46,6 +46,9 @@ A complete javascript documentation
 - [Awesome hacking](https://github.com/carpedm20/awesome-hacking) a list of general hacking tools. organize like thi awesome programming list
 - [Awesome web hacking]
 
+## DevOps and DevSecOps
+- [Security vulnerabilities on devops pipeline](https://github.com/cider-security-research/cicd-goat)
+
 ## Learn testing
 - [testing guild](https://testguild.com/training-courses/)
 - [test automation university](https://testautomationu.applitools.com/)
